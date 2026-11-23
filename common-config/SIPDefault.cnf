@@ -1,0 +1,15 @@
+image_version: "P0S3-8-12-00"
+
+proxy1_address: "IP_YOUR_SERVER_PBX"
+proxy1_port: "5060"
+proxy_register: "1"
+
+sntp_mode: "any"
+
+sntp_server: "IP_YOUR_SERVER_PBX"
+
+time_zone: "GMT-4"
+
+date_format: "D/M/Y"
+
+time_format_24hr: "0"
